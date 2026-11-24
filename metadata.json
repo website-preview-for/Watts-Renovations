@@ -1,0 +1,6 @@
+{
+  "name": "Watts Renovations",
+  "description": "Watts Renovations provides professional groundworks, drainage, driveways, patios, water supplies and fencing services across Northamptonshire and surrounding areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
